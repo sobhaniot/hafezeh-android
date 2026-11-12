@@ -21,4 +21,3 @@ flutter run
 ```
 
 The Android Gradle Plugin requires JDK 17 or newer. The project targets Android only. Word data is stored in the app's private Android preferences and is removed when the app is uninstalled.
-
